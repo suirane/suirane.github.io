@@ -2,13 +2,13 @@
 
 ## 环境准备
 
-* Typora
+* Typora 或 markText(开源)
 * git
 
 ## 基本流程
 
 1. 将整个文档 clone 到本地
-2. 打开文件夹 repo/docs/
+2. 使用 Typora 打开文件功能、打开文件夹 repo/docs/
 3. 可以开始浏览和进行编辑
 
 ## 添加新文档
